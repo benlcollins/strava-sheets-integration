@@ -1,0 +1,1 @@
+# Connect the Strava API to Google Sheets and Data Studio
