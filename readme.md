@@ -2,11 +2,11 @@
 
 Example of how to connect the Strava API with Google Sheets using Apps Script.
 
+## Tutorial:
+
 Full how-to tutorial: [How to connect the Strava API with Google Sheets and Data Studio](https://www.benlcollins.com/spreadsheets/strava-api-with-google-sheets/)
 
-___
-
-## Steps:
+## High-level steps:
 
 1. Create a new Google Sheet
 2. Add the Apps Script OAuth 2 library
